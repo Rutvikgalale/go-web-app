@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: go-web-app
-          image: go-web-app
+          image: rutvikg/go-web-app
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
