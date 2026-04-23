@@ -4,7 +4,7 @@ image:
   repository: rutvikg/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "24822011073"
+  tag: "24822066288"
 
 ingress:
   enabled: false
